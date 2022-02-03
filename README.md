@@ -18,4 +18,5 @@ I am Fakhri Alauddin. I am tech enthusiast and anime fans. I like playing game a
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Fakhri17&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fakhri17&hide=TeX&layout=compact)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Image_created_with_a_mobile_phone.png/1200px-Image_created_with_a_mobile_phone.png)
 
