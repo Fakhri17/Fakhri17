@@ -1,4 +1,4 @@
-## Hello <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Hello <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="21px">
 
 I am Fakhri Alauddin. I am tech enthusiast and anime fans. I like playing game and watching anime when i am boring in typing code😂 . I am from Indonesia. For now I focus on web development using technology from twig and craft cms.
 
@@ -15,6 +15,3 @@ I am Fakhri Alauddin. I am tech enthusiast and anime fans. I like playing game a
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Fakhri17&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fakhri17&hide=TeX&layout=compact)
