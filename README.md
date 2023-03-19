@@ -7,9 +7,7 @@ Currently, I am collage at the Telkom Surabaya Institute of Technology majoring 
 Im OPLOVERS and best char in One Piece i like ASL ( ACE, SABO , LUFFY )
 
 
-<img align="center" src="https://media0.giphy.com/media/SlHhBvisBAabA07KlE/giphy.gif" height="100px" style="margin: 21px;">
-<img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWI4MTY4ZjAxZWJmMGUxNWVmOWI2MzMxYTJjMWJmYWUzZTBhY2NmZiZjdD1z/XCrj2tVlZh31HCLWER/giphy.gif" height="100px" style="margin: 21px;">
-<img align="center" src="https://media4.giphy.com/media/HURfuzzxxnBXGHAWtJ/giphy.gif" height="100px" style="margin: 21px;">
+<img align="center" src="https://media0.giphy.com/media/SlHhBvisBAabA07KlE/giphy.gif" height="100px" style="margin: 21px;"><img align="center" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWI4MTY4ZjAxZWJmMGUxNWVmOWI2MzMxYTJjMWJmYWUzZTBhY2NmZiZjdD1z/XCrj2tVlZh31HCLWER/giphy.gif" height="100px" style="margin: 21px;"><img align="center" src="https://media4.giphy.com/media/HURfuzzxxnBXGHAWtJ/giphy.gif" height="100px" style="margin: 21px;">
 
 That's a short description from me.
 
@@ -37,14 +35,12 @@ Technology that I use
 
 
 ## Contact Me
-<img height="21" width="21" align="center" src="https://cdn.simpleicons.org/gmail/white" />
-<a href="mailto:fakhricoffe@gmail.com">Fakhricoffe@gmail.com</a>
 
-<img height="21" width="21" align="center" src="https://cdn.simpleicons.org/twitter/white" />
-<a href="https://twitter.com/fakhriii_15">fakhriii_15</a>
+<img height="21" width="21" align="center" src="https://cdn.simpleicons.org/gmail/white" /><a href="mailto:fakhricoffe@gmail.com">Fakhricoffe@gmail.com</a>
 
-<img height="21" width="21" align="center" src="https://cdn.simpleicons.org/Instagram/white" />
-<a href="https://www.instagram.com/fakhriii_15" target="_blank">fakhriii_15</a>
+<img height="21" width="21" align="center" src="https://cdn.simpleicons.org/twitter/white" /><a href="https://twitter.com/fakhriii_15">fakhriii_15</a>
+
+<img height="21" width="21" align="center" src="https://cdn.simpleicons.org/Instagram/white" /><a href="https://www.instagram.com/fakhriii_15" target="_blank">fakhriii_15</a>
 
 
 
