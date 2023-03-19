@@ -36,11 +36,11 @@ Technology that I use
 
 ## Contact Me
 
-<img height="21" width="21" align="center" src="https://cdn.simpleicons.org/gmail/white" /><a href="mailto:fakhricoffe@gmail.com">Fakhricoffe@gmail.com</a>
+<img height="21" width="21" align="center" src="https://cdn.simpleicons.org/gmail/white" /><a href="mailto:fakhricoffe@gmail.com"> Fakhricoffe@gmail.com</a>
 
-<img height="21" width="21" align="center" src="https://cdn.simpleicons.org/twitter/white" /><a href="https://twitter.com/fakhriii_15">fakhriii_15</a>
+<img height="21" width="21" align="center" src="https://cdn.simpleicons.org/twitter/white" /><a href="https://twitter.com/fakhriii_15"> fakhriii_15</a>
 
-<img height="21" width="21" align="center" src="https://cdn.simpleicons.org/Instagram/white" /><a href="https://www.instagram.com/fakhriii_15" target="_blank">fakhriii_15</a>
+<img height="21" width="21" align="center" src="https://cdn.simpleicons.org/Instagram/white" /><a href="https://www.instagram.com/fakhriii_15" target="_blank"> fakhriii_15</a>
 
 
 
