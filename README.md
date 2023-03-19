@@ -1,8 +1,8 @@
 ## Welcome to My Profile Github <img src="https://media.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif" width="31px">
 
-My Name Fakhri Alauddin, you can call me Fakhri. I am currently 22 years old. 
+My Name Fakhri Alauddin, you can call me Fakhri. I am currently 22 years old.
 
-Currently, I am collage at the Telkom Surabaya Institute of Technology majoring in Informatics
+Currently, I am collage at the Telkom Surabaya Institute of Technology majoring in Informatics. I have 2 Years Experience in Front End Web Dev
 
 Im OPLOVERS and best char in One Piece i like ASL ( ACE, SABO , LUFFY )
 
