@@ -1,5 +1,5 @@
 ## Welcome to My Profile Github <img src="https://media.tenor.com/UTxKJNlZilwAAAAi/luffy-monkey-d-luffy.gif" width="31px">
-<img align='right' src='https://media1.tenor.com/m/_X00b8WbgSIAAAAC/gear5-joy-boy.gif' width="100px">
+<img align='right' src='https://media1.tenor.com/m/_X00b8WbgSIAAAAC/gear5-joy-boy.gif' width="200px">
 
 ### (👉ﾟヮﾟ)👉 About Me
 I am Fakhri Alauddin 😁. I am From Surabaya, East Java, Indonesia and currently studies at Telkom University Surabaya majoring Informatic 🧑‍💻. I have 3 year experince about Web Developer preffered Craft CMS
@@ -77,7 +77,7 @@ I am Fakhri Alauddin 😁. I am From Surabaya, East Java, Indonesia and currentl
   </p>
 
 ## Contact Me
-<img align='right' src='https://media1.tenor.com/m/1QIMOPKKFVgAAAAC/meme-dorado.gif' width="100px">
+<img align='right' src='https://media1.tenor.com/m/1QIMOPKKFVgAAAAC/meme-dorado.gif' width="200px">
 
 If you are interested about me. You can contact me or see other information about me
 
