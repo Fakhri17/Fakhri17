@@ -94,8 +94,8 @@ If you are interested about me. You can contact me or see other information abou
   <img src="https://media1.tenor.com/m/2l95Bj4EiskAAAAC/one-piece-marco.gif">
 </div>
 <br>
-<img src="https://komarev.com/ghpvc/?username=Fakhri17&style=plastic&label=Views"><img>
-<img src="https://badges.pufler.dev/visits/Fakhri17/Fakhri17?color=black&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=Fakhri17&style=plastic&label=Views">
+<img src="https://badges.pufler.dev/visits/Fakhri17/Fakhri17?color=black&logo=github"/>
 
 
 
