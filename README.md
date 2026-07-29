@@ -56,8 +56,6 @@ I have around 3 years of experience in web development and enjoy building clean,
 - 📧 Email: **fakhricoffe@gmail.com**
 - 🌐 Website: **https://fakhri-17.my.id/**
 - 💼 LinkedIn: **https://www.linkedin.com/in/fakhri-alauddin/**
-- 📸 Instagram: **https://www.instagram.com/fakhriii_15/**
-- 📘 Facebook: **https://www.facebook.com/FakhriAL17/**
 
 ---
 
