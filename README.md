@@ -1,15 +1,20 @@
 # Hi, I'm Fakhri Alauddin 👋
 
-I am a web developer from Surabaya, East Java, Indonesia, currently studying Informatics at Telkom University Surabaya.  
-I have around 3 years of experience in web development, with a primary focus on building scalable and maintainable web applications.
+Full-Stack Web Developer from Surabaya, East Java, Indonesia.
+Around **6 years** of hands-on project experience building production web systems, with **5+ years on Craft CMS** and a strong focus on backend development with **Laravel**.
 
 ## About Me
 
-- 🎓 Informatics Student at Telkom University Surabaya
-- 💻 Web Developer (Frontend & Backend)
-- 🚀 Focused on **Laravel**, **Filament**, **Craft CMS**, **Symfony**, and **Vue.js**
-- 🌱 Continuously improving software engineering and web architecture skills
-- 🤝 Open to collaboration on meaningful projects
+- 🎓 Informatics graduate, Telkom University Surabaya (GPA 3.90/4.00)
+- 💻 Full-Stack Developer, backend-focused
+- 🚀 Main stack: **Laravel**, **Craft CMS**, **Vue.js**, **Symfony**, **Filament**
+- 🏗️ Shipped 6+ production systems: healthcare, enterprise company sites, campus services, and AI/IoT integrations
+- 💼 Open to full-time and project-based opportunities
+
+## Achievements
+
+- 🏆 1st Place, Student Start-Up Competition PLAYBOX Season 4 (2023)
+- 🎖️ Finalist, Pekan Ilmiah Mahasiswa (2023)
 
 ## Portfolio Website
 
@@ -18,15 +23,17 @@ I have around 3 years of experience in web development, with a primary focus on 
 ## Core Stack
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?style=flat&logo=laravel&logoColor=white)
-![Filament](https://img.shields.io/badge/Filament-F59E0B.svg?style=flat&logoColor=white)
 ![Craft CMS](https://img.shields.io/badge/Craft%20CMS-E5422B.svg?style=flat&logo=craftcms&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000.svg?style=flat&logo=symfony&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?style=flat&logo=vue.js&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000.svg?style=flat&logo=symfony&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-F59E0B.svg?style=flat&logoColor=white)
 
 ## Additional Technologies
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4.svg?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=flat&logo=mongodb&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6.svg?style=flat&logo=css3&logoColor=white)
@@ -43,8 +50,8 @@ I have around 3 years of experience in web development, with a primary focus on 
 
 ## Community Involvement
 
-- Assistant Mentor, Web Development — GDSC Telkom University
-- Member — Coder Web Developer Community
+- Web Development Mentor — GDSC Telkom University (open-enrollment web dev sessions)
+- Member & Speaker — UKM Coder, Telkom University (Hall of Fame: CODER Exhibition & Welcome Party)
 
 ## Contact
 
